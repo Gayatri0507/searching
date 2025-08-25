@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage" : "https://Gayatri0507.github.io/searching or sliding/",
+  "homepage" : "https://Gayatri0507.github.io/searching/",
  "scripts": {
   "lint": "eslint .",
   "dev": "vite",
